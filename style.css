@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    
 }
 .container{
     width: 100%;
@@ -51,7 +52,8 @@
     color: black;
     margin-left: 90px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+    color: white;
+    font-weight: bold;
 }
 #specials{
     background: #d64133;
@@ -133,7 +135,7 @@
 }
 #h3{
     font-size: 30px;
-    margin-left: 10px;
+    margin-left: 30px;
 }
 .div4{
    width: 700px;
